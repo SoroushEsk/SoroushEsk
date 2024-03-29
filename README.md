@@ -11,14 +11,14 @@ I'm a passionate developer with experience in Verilog, C, Kotlin, Java, and Pyth
 
 Here are some of the projects I've worked on:
 
-1. **Project 1**: Brief description of the project. Link to the project
-2. **Project 2**: Brief description of the project. Link to the project
+1. **Project 1**: Brief description of the project.
+2. **Project 2**: Brief description of the project.
 
 ## Interests 🎮
 
 I love gaming and artificial intelligence. Here are some images that represent my interests:
 
-!Gaming Image
+[!Gaming Image](https://wallpapercave.com/wp/wp7664876.jpg)
 !AI Image
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
