@@ -18,8 +18,8 @@ Here are some of the projects I've worked on:
 
 I love gaming and artificial intelligence. Here are some images that represent my interests:
 
-[!Gaming Image](https://wallpapercave.com/wp/wp7664876.jpg)
-!AI Image
+![Gaming Image](https://wallpapercave.com/wp/wp7664876.jpg)
+![AI Image](https://www.valuecoders.com/blog/wp-content/uploads/2023/08/ai-1.jpg)
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
 
