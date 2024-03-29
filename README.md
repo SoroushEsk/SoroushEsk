@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, world! 👋
 
-<!--
-**SoroushEsk/SoroushEsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with experience in Verilog, C, Kotlin, Java, and Python. I'm interested in artificial intelligence and gaming, and I love to learn and explore new technologies.
 
-Here are some ideas to get you started:
+## Skills 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Verilog, C, Kotlin, Java, Python
+- **Interests**: Artificial Intelligence, Gaming
+
+## Projects 🚀
+
+Here are some of the projects I've worked on:
+
+1. **Project 1**: Brief description of the project. Link to the project
+2. **Project 2**: Brief description of the project. Link to the project
+
+## Interests 🎮
+
+I love gaming and artificial intelligence. Here are some images that represent my interests:
+
+!Gaming Image
+!AI Image
+
+Feel free to reach out if you have any questions or if you want to collaborate on a project!
+
